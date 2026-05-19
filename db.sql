@@ -146,7 +146,7 @@ SELECT * FROM produit;
 SELECT * FROM commande;
 
 -- Liste des lignes de commande
-SELECT * FROM ligne_commande;
+SELECT * FROM produit_commande;
 
 -- Afficher les commandes avec les clients
 SELECT
